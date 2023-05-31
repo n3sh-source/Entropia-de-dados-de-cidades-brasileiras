@@ -1,7 +1,7 @@
 """
 Trabalho de Entropia
 
-Gustavo Costa Arakaki 0051352311028
+Gustavo Costa Arakaki
 """
 
 import math as m
