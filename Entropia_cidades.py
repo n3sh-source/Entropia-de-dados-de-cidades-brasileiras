@@ -1,7 +1,7 @@
 """
 Trabalho de Entropia
 
-Gustavo Costa Arakaki 0051352311028
+Gustavo Costa Arakaki
 """
 import pandas as pd
 from Entropia_funcs import probs, entropia, MAXentropia
